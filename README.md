@@ -6,8 +6,8 @@ It is analysing the PE NT Headers to detect the target platform the program was 
 
 ## 🎥 Preview
 
-[YouTube video](https://www.youtube.com/watch?v=ID)
-[![](https://i.imgur.com/ID.png)](https://www.youtube.com/watch?v=ID)
+[YouTube video](https://www.youtube.com/watch?v=ID)<br>
+[![](https://i.imgur.com/EmKsPEh.png)](https://www.youtube.com/watch?v=ID)
 
 ## 🌟 Objectives
 
